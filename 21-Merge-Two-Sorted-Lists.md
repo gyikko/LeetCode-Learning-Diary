@@ -2,7 +2,7 @@
 
 - Date: 02/18/2021 
 - Language: Java
-- [Question Link](https://leetcode.com/problems/two-sum/)
+- [Question Link](https://leetcode.com/problems/merge-two-sorted-lists/)
 
 ### Approach 1
 Create dummy `Linked List`. Since two list is alreayd sorted, we can comapre heads of the two lists
