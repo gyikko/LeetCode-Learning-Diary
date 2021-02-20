@@ -4,6 +4,8 @@
 
 [2. Merge Two Sorted Lists](https://github.com/gyikko/LeetCode-Learning-Diary/blob/main/21-Merge-Two-Sorted-Lists.md)
 
-[7.Reverse Integer](https://github.com/gyikko/LeetCode-Learning-Diary/blob/main/7-Reverse-Integer.md)
+[7. Reverse Integer](https://github.com/gyikko/LeetCode-Learning-Diary/blob/main/7-Reverse-Integer.md)
+
+[13. Roman to Integer](https://github.com/gyikko/LeetCode-Learning-Diary/blob/main/13-Roman-to-Integer.md)
 
 [128. Longest Consecutive Sequence](https://github.com/gyikko/LeetCode-Learning-Diary/blob/main/128-Longest-Consecutive-Sequence.md)
