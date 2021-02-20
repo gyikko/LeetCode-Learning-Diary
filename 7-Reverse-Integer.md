@@ -3,7 +3,7 @@
 - Date: 02/19/2021 
 - Language: Java
 - [Question Link](https://leetcode.com/problems/reverse-integer/)
-- Rather simple question. No need to use any data structures, just pure math logics.
+- Rather simple question. No need to use any data structures, just pure math logic.
 
 ```java
   class Solution {
@@ -24,4 +24,4 @@
 
 - Runtime: 1 ms (>100%)
 - Memory Usage: 36 MB (<83.26%)
-- Utilized: Math logics
+- Utilized: Math logic
